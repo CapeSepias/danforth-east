@@ -26,7 +26,7 @@ httplib2==0.18.1
 idna==2.10
 isort==5.5.2
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 lazy-object-proxy==1.4.3
 libcst==0.3.10
 MarkupSafe==1.1.1
